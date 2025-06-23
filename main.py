@@ -6,6 +6,7 @@ import subprocess
 import platform
 import sys
 import datetime # Für Zeitstempel in Logs
+from ttkthemes import ThemedTk
 
 # Importieren Sie Ihre lokalen Module
 from backup_logic import perform_backup, perform_restore, get_archive_contents
@@ -1449,6 +1450,7 @@ if __name__ == "__main__":
         run_scheduled_backup()
     else:
         # This branch is executed when the GUI is started normally
-        root = tk.Tk()
+        #root = tk.Tk()
+        root = ThemedTk() # <--- Change this line
         app = BackupToolGUI(root)
         app.run()
