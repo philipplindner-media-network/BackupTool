@@ -45,7 +45,7 @@ cd BackupTool
 
 #### Option B: ZIP herunterladen
 
-Rufe die [BackupTool GitHub-Seite](https://github.com/philipplindner-media-network/BackupTool/) auf (ersetze `IhrBenutzername`) und klicke auf den grünen "Code"-Button, dann auf "Download ZIP".  
+Rufe die [BackupTool GitHub-Seite](https://github.com/philipplindner-media-network/BackupTool/) auf und klicke auf den grünen "Code"-Button, dann auf "Download ZIP".  
 Entpacke die ZIP-Datei an einen Ort deiner Wahl (z.B. `C:\BackupTool` unter Windows oder `~/BackupTool` unter Linux).
 
 ### 2. Installationsskript ausführen
