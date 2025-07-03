@@ -1,0 +1,27 @@
+{
+    "source_paths": [
+        "/home/philipp/Dokumente/BAckUp_tool_py/testBackup"
+    ],
+    "nas_path": "",
+    "hetzner_host": "u327468@u327468.your-storagebox.de:23",
+    "compress_type": "tar.gz",
+    "encrypt_default": false,
+    "restore_source_type": "sftp",
+    "restore_local_path": "",
+    "restore_sftp_host": "u327468@u327468.your-storagebox.de:23",
+    "restore_sftp_file": "backup_20250622_182243.tar.gz",
+    "restore_dest_path": "/home/philipp/Dokumente/BAckUp_tool_py/remod",
+    "restore_encrypt_default": false,
+    "schedule_enabled": true,
+    "schedule_frequency": "weekly",
+    "schedule_time": "03:00",
+    "schedule_day": "Saturday",
+    "retention_enabled": true,
+    "retention_type": "count",
+    "retention_value": 1,
+    "retention_unit": "days",
+    "retention_nas": true,
+    "retention_hetzner": true,
+    "last_backup_hash": "470ae9603c4964349e6b39fd7f1caca72ae6bb33549ba8b7bdc0964c4e20ca2a",
+    "last_backup_filename": "backup_20250622_182243.tar.gz"
+}

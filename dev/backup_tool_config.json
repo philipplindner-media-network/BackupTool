@@ -1,0 +1,12 @@
+{
+    "plugin_data": {
+        "Template Wiederherstellungs-Plugin": {
+            "restore_location": ""
+        }
+    },
+    "selected_source_plugin": null,
+    "selected_destination_plugin": "Local Folder",
+    "selected_encryption_plugin": "(Keine)",
+    "selected_pre_post_script_plugin": "(Keine)",
+    "selected_restore_plugin": "Template Wiederherstellungs-Plugin"
+}
